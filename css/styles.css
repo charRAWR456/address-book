@@ -13,3 +13,8 @@ h1{
 p{
   display: none;
 }
+
+h2:hover {
+  cursor: crosshair;
+  color: blue;
+}
